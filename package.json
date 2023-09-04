@@ -1,0 +1,17 @@
+{
+  "name": "vtah-renovate",
+  "version": "1.0.0",
+  "description": "Demo App pour le VTAH sur Renovate",
+  "main": "src/index.js",
+  "repository": "git@github.com:ABWassim/vtah-renovate.git",
+  "author": "Wassim Ahmed-Belkacem",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.12.3",
+    "postgres": "3.3.2"
+  },
+  "devDependencies": {
+    "jest": "28.0.2",
+    "jest-cli": "28.0.2"
+  }
+}
