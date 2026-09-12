@@ -11,7 +11,7 @@
     "postgres": "3.3.2"
   },
   "devDependencies": {
-    "jest": "28.0.2",
-    "jest-cli": "28.0.2"
+    "jest": "30.5.1",
+    "jest-cli": "30.5.1"
   }
 }
